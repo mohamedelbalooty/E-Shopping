@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170037857974",
+    "firebase_url": "https://raia-rgon.firebaseio.com",
+    "project_id": "raia-rgon",
+    "storage_bucket": "raia-rgon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170037857974:android:ff644ba804470e0d22e017",
+        "android_client_info": {
+          "package_name": "com.example.raia_rgon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170037857974-ur24750t4iqnd0qi5s75ja47tbcnnalu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZBmsNIbD1I5ItcusH8i81H5I_p0Oss4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170037857974-ur24750t4iqnd0qi5s75ja47tbcnnalu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
